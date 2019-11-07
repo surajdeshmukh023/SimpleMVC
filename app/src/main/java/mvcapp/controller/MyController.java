@@ -17,6 +17,7 @@ public class MyController extends Application {
         return mInstance;
     }
 
+/**  comment*/
     @Override
     public void onCreate() {
         super.onCreate();
